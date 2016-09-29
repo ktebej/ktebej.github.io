@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-  font-family: Palatino, 'Palatino Linotype', serif;
+  font-family: Helevetica, 'Helvetica', sans-serif;
   color: rgb(216,218,190);
 }
 
@@ -18,7 +18,7 @@ h2 {
 
 
 .hero {
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-family: Helevetica, 'Helvetica', sans-serif;
 	padding: 250px 0;
 	margin: 30px;
   color: #ffffff;
