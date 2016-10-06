@@ -14,7 +14,7 @@ h2 {
 }
 
 .jumbotron {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   background-image: url('http://softlabnyc.com/wp-content/uploads/2015/12/softlab_behance_16.jpg');
   background-size: fill;
