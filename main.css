@@ -17,7 +17,7 @@ h2 {
   display: flex;
   align-items: center;
   background-image: url('http://softlabnyc.com/wp-content/uploads/2015/12/softlab_behance_16.jpg');
-  background-size: auto;
+  background-size: cover;
   color: #ffffff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
