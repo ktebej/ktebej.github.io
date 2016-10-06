@@ -32,3 +32,16 @@ h2 {
   color: black;
  
   }
+
+
+
+nav li {
+  margin: 0;
+  padding: 0 10px;
+  display: inline;
+}
+
+nav ul {
+  display: inline;
+}
+
