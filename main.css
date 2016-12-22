@@ -17,7 +17,7 @@ h2 {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: ktebej.github.io/Screen Shot 2016-11-29 at 12.58.53 AM.png;
+  background-image: url(ktebej.github.io/Screen Shot 2016-11-29 at 12.58.53 AM.png);
   background-size: cover;
   color: #ffffff;
   height: 500px;
